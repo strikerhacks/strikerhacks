@@ -2,7 +2,7 @@
 
 
 ## A Little About Me
-I am Shreyansh Mehrotra, currently pursuing my bachelor's degree majoring in computer science from Maharashtra Institute of Art, Design and Technology,Pune . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in computer science from Maharashtra Institute of Art, Design and Technology,Pune . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 
 
@@ -21,7 +21,7 @@ I am Shreyansh Mehrotra, currently pursuing my bachelor's degree majoring in com
  </a>
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-[<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/Shreyansh-mehrotra) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/twitter.png" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/strikerhacks) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/instagram.svg" height="40em" align="center" alt="Follow strikerhacks on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/_._Shreyansh_._/) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/gmail.svg" height="40em" align="center" alt="Mail" title="Mal me at shyam8dubey@gmail.com"/>](mailto:shyam8dubey@gmail.com)
+[<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/Shreyansh-Dubey) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/twitter.png" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/strikerhacks) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/instagram.svg" height="40em" align="center" alt="Follow strikerhacks on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/_senior.op_) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/gmail.svg" height="40em" align="center" alt="Mail" title="Mal me at shyam8dubey@gmail.com"/>](mailto:shyam8dubey@gmail.com)
 
  ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
