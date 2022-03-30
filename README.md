@@ -16,12 +16,12 @@ I am Shreyansh Mehrotra, currently pursuing my bachelor's degree majoring in com
 ![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=strikerhacks&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strikerhacks&layout=compact&theme=blueberry)
 
 ## Cyber Security related badges
-[![N|Solid](http://www.hackthebox.eu/badge/image/322519)](https://www.hackthebox.eu/profile/322519) 
-[![N|Solid](https://github.com/strikerhacks/strikerhacks/raw/main/strikerhacks.png)](https://tryhackme.com/p/strikerhacks)
-
+[![N|Solid](http://www.hackthebox.eu/badge/image/248659)](https://app.hackthebox.com/profile/248659) 
+<a href="https://tryhackme.com/p/strikerhacks"> <img src="https://tryhackme-badges.s3.amazonaws.com/strikerhacks.png" alt="TryHackMe">
+ </a>
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-[<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/Shreyansh-mehrotra) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/twitter.png" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/strikerhacks) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/instagram.svg" height="40em" align="center" alt="Follow strikerhacks on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/_._Shreyansh_._/) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/gmail.svg" height="40em" align="center" alt="Mail" title="Mal me at Shreyanshmehrotra@gmail.com"/>](mailto:Shreyanshmehrotra@gmail.com)
+[<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/Shreyansh-mehrotra) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/twitter.png" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/strikerhacks) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/instagram.svg" height="40em" align="center" alt="Follow strikerhacks on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/_._Shreyansh_._/) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/gmail.svg" height="40em" align="center" alt="Mail" title="Mal me at shyam8dubey@gmail.com"/>](mailto:shyam8dubey@gmail.com)
 
  ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
