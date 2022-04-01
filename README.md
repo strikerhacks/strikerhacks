@@ -19,6 +19,21 @@ I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in comput
 [![N|Solid](http://www.hackthebox.eu/badge/image/248659)](https://app.hackthebox.com/profile/248659) 
 <a href="https://tryhackme.com/p/strikerhacks"> <img src="https://tryhackme-badges.s3.amazonaws.com/strikerhacks.png" alt="TryHackMe">
  </a>
+ 
+ ## TryHackMe Badges
+<a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/mrrobot.svg" alt="TryHackMe">
+ <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/hashcracker.svg" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/ohsint.svg" alt="TryHackMe">
+   <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/linux.svg" alt="TryHackMe">
+    <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/metasploit.svg" alt="TryHackMe">
+     <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/ice.svg" alt="TryHackMe">
+      <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/blue.svg" alt="TryHackMe">
+       <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="TryHackMe">
+        <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe">
+         <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/overpass_badge.svg" alt="TryHackMe">
+          <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe">
+           <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/adventofcyber.svg" alt="TryHackMe">
+ </a>
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/shreyansh-dubey-8420331a8/) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/twitter.png" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/strikerhacks) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/instagram.svg" height="40em" align="center" alt="Follow strikerhacks on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/_senior.op_) [<img src="https://raw.githubusercontent.com/strikerhacks/strikerhacks/master/icons/socials/gmail.svg" height="40em" align="center" alt="Mail" title="Mal me at shyam8dubey@gmail.com"/>](mailto:shyam8dubey@gmail.com)
