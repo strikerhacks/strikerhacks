@@ -19,6 +19,12 @@ I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in comput
 [![N|Solid](http://www.hackthebox.eu/badge/image/248659)](https://app.hackthebox.com/profile/248659) 
 <a href="https://tryhackme.com/p/strikerhacks"> <img src="https://tryhackme-badges.s3.amazonaws.com/strikerhacks.png" alt="TryHackMe">
  </a>
+ <a href=""> <img width="70" height="70" src="https://images.credly.com/size/110x110/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png" alt="MTA">
+ </a>
+ <a href=""> <img width="70" height="70" src="https://images.credly.com/size/340x340/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" alt="Coursera-Pentest">
+ </a>
+ <a href=""> <img width="90" height="70" src="https://elearnsecurity.com/wp-content/uploads/eJPT-300x223.png" alt="EJPT">
+ </a>
  
  ## TryHackMe Badges
 <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/mrrobot.svg" alt="TryHackMe">
