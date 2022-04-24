@@ -15,7 +15,7 @@ I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in comput
 
 ![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=strikerhacks&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strikerhacks&layout=compact&theme=blueberry)
 
-## Cyber Security related badges
+## Cyber Security And Cloud Related Badges
 [![N|Solid](http://www.hackthebox.eu/badge/image/248659)](https://app.hackthebox.com/profile/248659) 
 <a href="https://tryhackme.com/p/strikerhacks"> <img src="https://tryhackme-badges.s3.amazonaws.com/strikerhacks.png" alt="TryHackMe">
  </a>
