@@ -25,6 +25,8 @@ I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in comput
  </a>
  <a href=""> <img width="90" height="70" src="https://elearnsecurity.com/wp-content/uploads/eJPT-300x223.png" alt="EJPT">
  </a>
+ <a href=""> <img width="80" height="70" src="https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png" alt="AWS-Cloud">
+ </a>
  
  ## TryHackMe Badges
 <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/mrrobot.svg" alt="TryHackMe">
