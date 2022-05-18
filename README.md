@@ -32,6 +32,8 @@ I am Shreyansh Dubey, currently pursuing my bachelor's degree majoring in comput
  </a>
  <a href=""> <img width="80" height="80" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS-Cloud">
  </a>
+ <a href=""> <img width="80" height="80" src="https://miro.medium.com/max/352/1*54sfMqv8G6AobL96WdYuiQ.jpeg" alt="CEH">
+ </a>
  
  ## TryHackMe Badges
 <a href="https://tryhackme.com/p/strikerhacks"> <img width="50" height="50" src="https://tryhackme.com/img/badges/mrrobot.svg" alt="TryHackMe">
